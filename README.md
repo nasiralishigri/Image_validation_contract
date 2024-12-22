@@ -12,4 +12,5 @@ npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
 # IPFS Hashes of Images
-https://purple-upper-armadillo-380.mypinata.cloud/ipfs/bafybeibgpn7hkdg2wl5ellpfhdomysci5wa5avmhxvuekuixgz6an3vcfy 
+https://purple-upper-armadillo-380.mypinata.cloud/ipfs/bafybeibgpn7hkdg2wl5ellpfhdomysci5wa5avmhxvuekuixgz6an3vcfy
+https://purple-upper-armadillo-380.mypinata.cloud/ipfs/bafybeihhbjlfa4twnpsqtfcckrxyrhigovt6fc3aeukbdib633rq3lne2i
