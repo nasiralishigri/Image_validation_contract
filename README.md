@@ -23,3 +23,8 @@ https://purple-upper-armadillo-380.mypinata.cloud/ipfs/bafybeicvppflaxl2cmkryu5e
       Deployed and Verified
       Successfully verified contract ProofOfExistence on the block explorer.
 https://amoy.polygonscan.com/address/0xc0F4E4E1f75206e4F0194AD916a929992d702636#code
+
+## Proof Of OwnerShip
+
+Successfully verified contract ProofOfOwnership on the block explorer.
+https://amoy.polygonscan.com/address/0x6cD26E73b0fFAe8FB0cA1B7d25e9612d876E9a45#code
