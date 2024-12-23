@@ -28,3 +28,7 @@ https://amoy.polygonscan.com/address/0xc0F4E4E1f75206e4F0194AD916a929992d702636#
 
 Successfully verified contract ProofOfOwnership on the block explorer.
 https://amoy.polygonscan.com/address/0x6cD26E73b0fFAe8FB0cA1B7d25e9612d876E9a45#code
+
+## zkEVM 
+Successfully verified contract zkEVM on the block explorer.
+https://amoy.polygonscan.com/address/0xc6e77eB76F01E8aE246D2fb429281810EDE625fB#code
