@@ -45,6 +45,7 @@ https://amoy.polygonscan.com/address/0xc6e77eB76F01E8aE246D2fb429281810EDE625fB#
      Gas Limit & Usage by Txn: 136,108 | 134,989 (99.18%) 
      Block No: 15964868
      Transaction Per Second: 65,000
+     Time To Confirm Transaction: 2 sec
 
    
 Transaction Hash: https://amoy.polygonscan.com/tx/0xcf925227d0986b26b576bf4ec79c7fa417ffaa1a753779a265687e74118120f1
@@ -55,6 +56,7 @@ Transaction Hash: https://amoy.polygonscan.com/tx/0xcf925227d0986b26b576bf4ec79c
     Gas Limit & Usage by Txn: 44,419 | 44,041 (99.15%) 
     Block No: 15967390
     Transaction Per Second: 65,000
+    Time To Confirm Transaction: 1.7 sec
 
 Transaction Hash: https://amoy.polygonscan.com/tx/0x8fada481612e0adbf259c7bb97d44941fce15f25cb9720f0a5757ff1307829ed
 
@@ -64,5 +66,6 @@ Transaction Hash: https://amoy.polygonscan.com/tx/0x8fada481612e0adbf259c7bb97d4
     Gas Limit & Usage by Txn: 89,531 | 88,597 (98.96%) 
     Block No: 15967494
     Transaction Per Second: 65,000
+    Time To Confirm Transaction: 2.5 sec
 
 Transaction Hash: https://amoy.polygonscan.com/tx/0x4ddb80ea4318c96671b3a26debd39373ed446d54d8498267212a1894bd133e5b
