@@ -35,3 +35,19 @@ https://amoy.polygonscan.com/address/0x6cD26E73b0fFAe8FB0cA1B7d25e9612d876E9a45#
 ## zkEVM 
     Successfully verified contract zkEVM on the block explorer.
 https://amoy.polygonscan.com/address/0xc6e77eB76F01E8aE246D2fb429281810EDE625fB#code
+
+
+# Transaction History on Different Smart Contract
+
+#  Proof of Existance
+     Transaction Fee:  0.003996848938614055 POL
+
+   
+Transaction Hash: https://amoy.polygonscan.com/tx/0xcf925227d0986b26b576bf4ec79c7fa417ffaa1a753779a265687e74118120f1
+
+# Proof of Ownership
+    Transaction Fee:   0.001248556143874403 POL
+    Gas Price : 28.349859083 Gwei
+    
+
+Transaction Hash: https://amoy.polygonscan.com/tx/0x8fada481612e0adbf259c7bb97d44941fce15f25cb9720f0a5757ff1307829ed
